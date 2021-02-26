@@ -1,8 +1,8 @@
 ### Hello !
 ### Bienvenue sur mon profil GitHub.
 
-<details>
 ## 💻 Mes activités actuelles ...
+
 ```
 Consultant BI indépendant, depuis Août 2020
 ```
@@ -16,7 +16,7 @@ Enseignant vacataire, depuis Septembre 2020
 >- Introduction à la BI, Modélisation OLAP : CNAM St Etienne
 >- TD/TP SAP Warehouse Management : IUT Lyon 2
 >- Product owner/coach agile pour les projets informatiques : Télécom Saint Etienne
-</details>
+
 
 ## 💬 About Me ...
 Chef de projet IT et Service delivery manager, je gère des équipes de support et réalise des projets SAP BI depuis plus de 10 ans pour de grands comptes dans différents secteurs d'activité. Je souhaite mettre à profit mes compétences en SAP BW et Hana, au sein d'entreprises de tailles variées sur des sujets toujours plus intéressants.
